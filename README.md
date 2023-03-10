@@ -108,6 +108,12 @@ If you like this project give this repo a star and reach out on our social media
 
 I would like to thank the [Wikipedia Page](https://en.wikipedia.org/wiki/Morse_code) for showing us how the morse code works.
 
+I would like to thank:
+
+- [Microverse](https://www.microverse.org/)
+- Code Reviewers
+- Microverse README template.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## ❓ FAQ <a name="faq"></a>
